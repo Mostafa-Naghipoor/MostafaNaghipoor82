@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MostafaNaghipoor
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data analytic and data science
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on big companies and associations
 - 📫 How to reach me: mostafa.naghipoor@hotmail.com
 
